@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.svg" alt="Shailesh Chauhan portfolio banner" width="100%">
+<img src="fevicon.png" alt="Shailesh Chauhan portfolio banner" width="10%" >
 
 <br>
 
