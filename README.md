@@ -99,6 +99,8 @@ Tip: a photo with a dark or plain background looks best in the hero frame. The "
 - **Vercel:** import the repo and deploy. No settings are needed.
 
 ## 🧱 Tech stack
+visit to watch the portpholi : https://shaileshbuilds.github.io/my-portfolio/
+
 
 HTML5, Tailwind CSS (CDN), JavaScript (ES6), Google Fonts (Inter and Space Grotesk).
 
